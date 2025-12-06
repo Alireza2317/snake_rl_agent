@@ -25,7 +25,7 @@ A Reinforcement Learning agent that masters the classic Snake game using **Deep 
 Clone the repo and set up the environment:
 
 ```bash
-git clone [https://github.com/Alireza2317/Snake_RL](https://github.com/Alireza2317/Snake_RL)
+git clone https://github.com/Alireza2317/snake_rl_agent
 cd Snake_RL
 
 # Create virtual env (Optional)
